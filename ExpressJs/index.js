@@ -46,6 +46,14 @@ app.delete('/deneme', (req,res) => {
     res.send('Delete Request')
 })
 
+const router = express.Router()
+
+import appRouter from './Router/router.js'
+
+app.use(appRouter)
+
+
+
 app.listen(5000, () => {
     console.log('Proje http://localhost:5000 numaralı portta çalışıyor')
 })
