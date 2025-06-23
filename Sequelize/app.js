@@ -6,6 +6,11 @@ const { Op, NUMBER, QueryTypes } = require("sequelize");
 const TestModel = require("./models/test-model")
 const SocialModel = require("./models/social-model")
 const UserModel = require("./models/user-model")
+const Actor_Movie = require("./models/actor-move-model")
+const Actor = require("./models/actor-model")
+const Movie = require("./models/move-model")
+Actor.belongsToMany(Movie, { through: Actor_Movie, foreignKey: "actor_id" })
+Movie.belongsToMany(Actor, { through: Actor_Movie, foreignKey: "movie_id" })
 UserModel.hasMany(SocialModel, { foreignKey: "user_id" })
 SocialModel.belongsTo(UserModel)
 
@@ -179,6 +184,117 @@ router.post('/createDataWithTransaction', async (req, res) => {
     }
 })
 
+router.post("/createWithRelation", async (req, res) => {
+    // const user = await UserModel.create({
+    //     userName: "Burchan"
+    // }, { logging: true })
+    const socialMedia = await SocialModel.findByPk(5)
+    const socialMedi2 = await SocialModel.findByPk(6)
+    const user = await UserModel.findByPk(2)
+    const _removes = await user.removeSocials([socialMedia, socialMedi2])
+    console.log('_removes', _removes)
+    // const x = await user.createSocial({ socialMediaName: "pinterest" })
+    const data = await user.getSocials()
+    const count = await user.countSocials()
+    const social = await SocialModel.create({ socialMediaName: "FaceBook" })
+    const social2 = await SocialModel.create({ socialMediaName: "WhatsApp" })
+    const result = await user.addSocials([social, social2])
+    console.log('result', result)
+    // const social = await SocialModel.create({ socialMediaName: "Instagram" })
+    // const userWithSocial = await user.addSocial(social)
+    // console.log('userWithSocial', userWithSocial)
+})
+
+router.get("/getUserWithSocials", async (req, res) => {
+    const data = await UserModel.findAll({
+        where: {
+            id: 2
+        },
+        include: {
+            model: SocialModel,
+            attributes: ["socialMediaName", "id"],
+            where: {
+                social_media_name: {
+                    [Op.in]: ["Pinterest"]
+                }
+            }
+        }
+    })
+    res.json(data)
+})
+
+router.post("/ManyToManyRelations", async (req, res) => {
+    // const actor = await Actor.findByPk(2)
+    const movie = await Movie.findByPk(4)
+    const actor1 = await Actor.create({ actor_name: "Abc" })
+    const actor2 = await Actor.create({ actor_name: "Def" })
+    // const actor = await Actor.create({ actor_name: "Brad Pit" })
+    // const movie = await Movie.create({ movie_name: "abc" })
+    // const movie2 = await Movie.create({ movie_name: "abc2" })
+    // const result = await actor.addMovie(movie)
+    // const result = await actor.addMovies([movie, movie2])
+    const result = await movie.addActors([actor1, actor2])
+    console.log('result', result)
+})
+
+router.get("/manyToManyGetMoviesWithActor/:dataId", async (req, res) => {
+    const { dataId } = req.params
+    const actor = await Actor.findByPk(dataId)
+    const result = await actor.getMovies()
+    res.status(200).json(result)
+})
+
+router.get("/manyToManyGetMoviesWithMovie/:dataId", async (req, res) => {
+    const { dataId } = req.params
+    const movie = await Movie.findByPk(dataId)
+    const result = await movie.getActors()
+    res.status(200).json(result)
+})
+
+router.post("/manyToManyCreateActorWithMovie/:dataId", async (req, res) => {
+    const { dataId } = req.params
+    const { movie_name } = req.body
+    const actor = await Actor.findByPk(dataId)
+
+    const x = await actor.createMovie({ movie_name })
+    res.status(200).json(x)
+})
+
+router.get("/manyToManyGetMoviesWithActorCount/:dataId", async (req, res) => {
+    const { dataId } = req.params
+    const actor = await Actor.findByPk(dataId)
+    const count = await actor.countMovies()
+    res.status(200).json({ count })
+
+})
+
+router.delete("/manyToManyRemoveRelation/:dataId/:movieId", async (req, res) => {
+    const { dataId, movieId } = req.params
+    const actor = await Actor.findByPk(dataId)
+    const movie = await Movie.findByPk(movieId)
+    const r = await actor.removeMovie(movie)
+    res.status(200).json({ reult: r })
+})
+
+router.get("/monyToManyListDataForActor/:dataId", async (req, res) => {
+    const { dataId } = req.params
+    const data = await Actor.findAll({
+        where: {
+            id: dataId
+        },
+        include: {
+            model: Movie,
+            where: {
+                movie_name: {
+                    [Op.eq]: ["abc2"]
+                }
+            },
+            through: { attributes: [] }
+        }
+    })
+    res.json(data)
+})
+
 app.use(express.json())
 app.use(router)
 
@@ -188,14 +304,3 @@ app.listen(5000, async () => {
     console.log("done !")
 })
 
-
-const cerateDataWithRelational = async () => {
-    const user = await UserModel.create({
-        userName: "Burchan"
-    }, { logging: true })
-    const social = await SocialModel.create({ socialMediaName: "Instagram" })
-    const userWithSocial = await user.addSocial(social)
-    console.log('userWithSocial', userWithSocial)
-}
-
-cerateDataWithRelational()

@@ -27,8 +27,16 @@ db.createTables = async () => {
     const TestModel = require("../models/test-model")
     const UserModel = require("../models/user-model")
     const SocialModel = require("../models/social-model")
+    const Actor_Movie = require("../models/actor-move-model")
+    const Actor = require("../models/actor-model")
+    const Movie = require("../models/move-model")
+
+    Actor.belongsToMany(Movie, { through: Actor_Movie, foreignKey: "actor_id" })
+    Movie.belongsToMany(Actor, { through: Actor_Movie, foreignKey: "movie_id" })
+
     UserModel.hasMany(SocialModel, { foreignKey: "user_id" })
     SocialModel.belongsTo(UserModel)
+
     // await TestModel.sync({ force: true })
     sequelize.sync({ force: true })
 }
