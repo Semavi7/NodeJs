@@ -1,0 +1,3 @@
+{"api":"Abc Uygulaması Endpoinleri","label":"Benim Api","level":"info","message":"::1 den ilgili endpointe / erişim sağlandı burchan isimli kayıt eklendi","timestamp":"2025-06-30T07:47:07.189Z"}
+{"api":"Abc Uygulaması Endpoinleri","label":"Benim Api","level":"info","message":"::1 den ilgili endpointe / erişim sağlandı  isimli kayıt eklendi","timestamp":"2025-06-30T07:47:44.232Z"}
+{"api":"Abc Uygulaması Endpoinleri","label":"Benim Api","level":"error","message":"::1 den ilgili endpointe / erişim sağlandı,  isimli kayıt eklenmeye çalışılsı ve hata alındı hata bilgileri TypeError: name.toUpperCase is not a function","timestamp":"2025-06-30T07:47:44.232Z"}
