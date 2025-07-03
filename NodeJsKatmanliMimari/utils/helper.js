@@ -76,6 +76,18 @@ const handeValidation = (req) => {
     return null
 }
 
+const deleteFromDisk = (fileName) => {
+    if(fileName && fs.existsSync(`uploads/${fileName}`)) {
+        fs.unlink(`uploads/${fileName}`, (err) => {
+            if(err){
+                return false
+            }
+            return true
+        })
+    }
+    return true
+}
+
 module.exports = {
     createToken,
     verifyToken,
@@ -83,5 +95,6 @@ module.exports = {
     logToError,
     createUpLoadDir,
     getHost,
-    handeValidation
+    handeValidation,
+    deleteFromDisk
 }

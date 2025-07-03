@@ -11,6 +11,9 @@ const CompanyDataAccess = {
     },
     async deleteById(id) {
         return await Company.findByIdAndDelete({ _id: id })
+    },
+    async findById(id){
+        return await Company.findById({ _id: id })
     }
 }
 
