@@ -967,3 +967,5 @@
 {"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T20:48:08.268Z"}
 {"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T20:49:17.038Z"}
 {"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T20:50:05.592Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T20:50:07.529Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/updateLogo - BODY : undefined - PARAMS : {} - QUERY : {\"id\":\"68664ccd8645cb8dc2b0d1ac\"} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/updateLogo?id=68664ccd8645cb8dc2b0d1ac","timestamp":"2025-07-03T20:52:57.275Z"}
