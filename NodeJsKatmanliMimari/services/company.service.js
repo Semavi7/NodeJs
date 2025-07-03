@@ -1,0 +1,49 @@
+const Company = require("../models/company.model")
+const companyDal = require("../dal/index")
+const companyDto = require("../dto/company.dto")
+const fileservice = require("./file.service")
+exports.createCompany = async (req) => {
+    try {
+        const { name, year, description } = req.body
+        const company = new Company({
+            name,
+            year,
+            description,
+            logo: ""
+        })
+        const json = await companyDal.company.create(company)
+        return {...companyDto, name:json.name, year: json.year, description: json.description, logo: json.logo, id: json._id, createdAt: json.createdAt, updatedAt: json.updatedAt}
+    } catch (error) {
+        throw new error
+    }
+}
+
+exports.uploadLogo = async (req, res) => {
+    try {
+        const { id } = req.query 
+        const str = await fileservice.uploadImage(req, res)
+        const json = await companyDal.company.updateById(id, { logo: str })
+        console.log('str', str, json)
+        return {...companyDto, name:json.name, year: json.year, description: json.description, logo: str, id: json._id, createdAt: json.createdAt, updatedAt: json.updatedAt}
+    } catch (error) {
+        throw new error
+    }
+}
+exports.listCompany = async () => {
+    try {
+        const json = await companyDal.company.listAll()
+        return json
+    } catch (error) {
+        throw new error
+    }
+}
+
+exports.deleteCompanyById = async (req, res) => {
+    try {
+        const { id } = req.query
+        const json = await companyDal.company.deleteById(id)
+        return json
+    } catch (error) {
+        throw new error
+    }
+}

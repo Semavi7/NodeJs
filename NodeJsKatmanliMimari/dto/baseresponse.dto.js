@@ -1,9 +1,10 @@
 const baseResponse = {
     code: "",
-    error: "",
+    error: false,
     timestamp: "",
     success: "",
-    data: "",
-    message: ""
+    data: null,
+    message: "",
+    validationErrors: null
 }
 module.exports = baseResponse

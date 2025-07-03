@@ -1,4 +1,5 @@
 const express = require("express")
+const path = require("path")
 const cors = require("cors")
 const { default: helmet } = require("helmet")
 const configs = require("./configs/index")
@@ -6,16 +7,17 @@ const db = require("./db/index")
 const router = require("./router/index")
 const consts = require("./consts/index")
 const middlewares = require("./middleware/index")
+const utils = require("./utils/index")
 
 
 const app = express()
 const PORT = process.env.PORT || 5000
 
 
-
 configs.serverConfig.initialServerConfig()
+utils.helpers.createUpLoadDir('./uploads')
 
-
+app.use("/uploads", express.static(path.join(__dirname, "uploads")))
 
 app.use(express.json())
 app.use(helmet())
@@ -35,4 +37,3 @@ db.mongooseConnection.connectToMongoDb(process.env.MONGODB_HOST, process.env.MON
 
     })
 })
-

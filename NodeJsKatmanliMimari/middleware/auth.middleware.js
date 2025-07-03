@@ -4,6 +4,8 @@ const consts = require("../consts/index")
 module.exports = (req, res, next) => {
     try {
         if (!req.url.includes("/api/v1")) {
+            next()
+            return
             const token = req.headers.authorization.split(" ")[1]
             console.log('token', token)
             const decodedToken = helpers.helpers.verifyToken(token)

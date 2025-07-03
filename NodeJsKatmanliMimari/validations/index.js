@@ -1,4 +1,6 @@
-const testValidator = require("./testValidator")
+const commonValidator = require("./comon.validator")
+const companyValidatior = require("./company.validator")
 module.exports = {
-    testValidator
+    commonValidator,
+    companyValidatior
 }

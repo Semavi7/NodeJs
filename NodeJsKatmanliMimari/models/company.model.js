@@ -9,20 +9,20 @@ const companySchema = new Schema({
     },
     logo: {
         type: Schema.Types.String,
-        required: true
+        required: false
     },
     year: {
         type: Schema.Types.Number,
         required: true
     },
     description: {
-        type: Schema.Types.Number,
+        type: Schema.Types.String,
         required: true
     },
-    persons: {
+    persons: [{
         type: Schema.Types.ObjectId,
         ref: "Person"
-    }
+    }]
 },{
     minimize: true,
     timestamps: true,

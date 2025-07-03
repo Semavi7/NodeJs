@@ -1,0 +1,848 @@
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T07:55:49.259Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/cityById/12345 - BODY : [object Object] - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/cityById/12345","timestamp":"2025-07-03T07:57:06.400Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/common/cityById/12345 - BODY : [object Object] - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/common/cityById/12345","timestamp":"2025-07-03T07:57:42.601Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:02:07.079Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/common/cityById/12345 - BODY : [object Object] - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/common/cityById/12345","timestamp":"2025-07-03T08:02:37.387Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:05:01.666Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:05:15.715Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:05:19.068Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:05:47.482Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:05:58.578Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:06:30.931Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:06:58.208Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:07:29.255Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:07:31.098Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:07:42.019Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:07:50.691Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:07:57.018Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:08:18.121Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:08:21.716Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:08:34.372Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:08:39.751Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:08:42.353Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:08:45.931Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:08:48.885Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:08:50.684Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:10:37.294Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:10:49.094Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:11:30.831Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:11:35.744Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:11:40.047Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:11:49.468Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:11:54.052Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:11:57.891Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:11:59.451Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:12:01.469Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:12:11.003Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:12:16.263Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:12:19.587Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:12:22.105Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:12:26.342Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:12:30.905Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:12:34.221Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:12:41.793Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:12:44.121Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:12:49.352Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:12:51.676Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:13:05.173Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:13:12.105Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:13:16.011Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:13:19.629Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:13:22.173Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:13:35.961Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:13:37.899Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:13:39.898Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:14:00.276Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:14:20.860Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:14:33.291Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:14:35.237Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:14:40.172Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:14:50.718Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:14:52.535Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:14:55.029Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:14:59.504Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:15:04.836Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:15:15.464Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:15:24.308Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:16:03.446Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:16:06.013Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:16:10.589Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:16:16.237Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:16:26.317Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:16:29.839Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:16:36.954Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:16:43.254Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:16:46.929Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:16:49.096Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:16:59.430Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:17:05.564Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:17:08.733Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:17:10.492Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:17:12.904Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:17:17.849Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:17:23.041Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:17:26.174Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:17:27.749Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:17:35.584Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:17:38.676Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:17:42.740Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:17:51.873Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:17:53.576Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:18:04.107Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:18:15.518Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:18:17.590Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:18:21.115Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:18:23.220Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:18:29.054Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:21:19.308Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:21:24.952Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:21:27.761Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:21:36.243Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:21:50.145Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:22:12.495Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:22:24.772Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:22:33.229Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/common/cityById/12345 - BODY : [object Object] - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/common/cityById/12345","timestamp":"2025-07-03T08:22:41.587Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[31merror\u001b[39m","message":"IP Adresi : ::1 - PATH : /cityById/12345 - BODY : [object Object] - PARAMS : {\"countryId\":\"12345\"} - QUERY : {} - ERROR TİME : 1751530961604 - URL : /cityById/12345 - ERROR MESSAGE : Cannot set headers after they are sent to the client - ERROR CALLSTACK : {\"code\":\"ERR_HTTP_HEADERS_SENT\"}","timestamp":"2025-07-03T08:22:41.604Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:23:13.320Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:23:22.374Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:24:41.607Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:25:00.069Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:25:21.877Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:25:38.625Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:25:59.628Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/common/allCountry - BODY : [object Object] - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/common/allCountry","timestamp":"2025-07-03T08:26:19.837Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:27:21.241Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:27:24.477Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:27:27.302Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:28:18.962Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:28:35.928Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:28:52.107Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:29:30.210Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:29:33.186Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:29:37.045Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:29:40.884Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:29:42.435Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:29:46.696Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:29:50.238Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:29:53.772Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:29:55.539Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:29:58.796Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:30:01.213Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:30:04.411Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:30:08.161Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:30:13.352Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:30:15.593Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:30:17.741Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:30:23.705Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:30:25.391Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:30:27.343Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:30:30.869Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:30:33.450Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:30:37.826Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:30:41.752Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:30:45.753Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:30:47.489Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:31:05.529Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:31:08.146Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:31:14.533Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:31:21.445Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:31:24.347Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:31:26.935Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:31:30.336Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:31:34.474Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:31:38.620Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:31:41.588Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:31:47.592Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:32:40.926Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:33:04.659Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:33:32.867Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:33:41.585Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:33:44.171Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:34:33.269Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:35:41.938Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:35:46.018Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:35:56.905Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:36:21.658Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:36:23.882Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:36:45.070Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:37:13.979Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:37:34.588Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:37:41.112Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:37:53.150Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:37:59.562Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:38:01.860Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:38:06.702Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:38:09.563Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:38:11.396Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:38:33.715Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:38:57.984Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:39:37.122Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:39:40.265Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:40:07.110Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:40:25.242Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:41:05.755Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:41:38.539Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:42:34.487Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:44:31.406Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:44:34.265Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:44:37.548Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:44:40.098Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:44:46.165Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:44:49.846Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:44:53.062Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:44:55.336Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:44:57.352Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:45:00.402Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:45:03.029Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:45:07.213Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:45:10.986Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:45:18.853Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:45:24.518Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:45:27.634Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:45:31.149Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:45:34.734Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:45:40.950Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:45:43.901Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:45:46.417Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:45:48.027Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:45:50.801Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:45:57.394Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:46:13.292Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:46:16.699Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:46:21.027Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:46:24.110Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:46:27.095Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:46:29.539Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:46:31.506Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:46:33.228Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:46:38.750Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:46:40.698Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:46:47.056Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:46:51.076Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:46:55.189Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:46:57.726Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:46:59.569Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:47:04.184Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:47:07.121Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:47:11.994Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:47:15.544Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:47:17.156Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:47:24.243Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:47:29.170Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:47:32.665Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:47:37.306Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:47:40.369Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:47:42.324Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:47:46.153Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:48:55.591Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:48:58.334Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:49:02.014Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:49:16.689Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:50:29.570Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:50:42.382Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:50:52.265Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:50:54.824Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:51:01.929Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:51:18.020Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:52:02.204Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:52:05.335Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:52:09.548Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:52:17.322Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:52:36.410Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:52:39.427Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:52:43.052Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:52:45.444Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:52:48.546Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:52:52.900Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:53:15.733Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:53:17.678Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:53:19.783Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:53:21.773Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:53:23.925Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:53:27.035Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:53:30.997Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/create - BODY : [object Object] - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/create","timestamp":"2025-07-03T08:57:34.417Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[31merror\u001b[39m","message":"IP Adresi : ::1 - PATH : /create - BODY : [object Object] - PARAMS : {} - QUERY : {} - ERROR TİME : 1751533054458 - URL : /create - ERROR MESSAGE : error is not a constructor - ERROR CALLSTACK : {}","timestamp":"2025-07-03T08:57:34.458Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:58:44.832Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:59:07.338Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T08:59:11.430Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/create - BODY : [object Object] - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/create","timestamp":"2025-07-03T08:59:17.236Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T09:10:02.505Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T09:14:29.026Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/create - BODY : [object Object] - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/create","timestamp":"2025-07-03T09:14:47.942Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T09:15:42.654Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T09:15:45.103Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T09:15:49.209Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T09:15:56.553Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T09:16:23.423Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T09:16:30.699Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T09:16:34.911Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T09:16:40.097Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T09:16:45.631Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T09:16:53.400Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T09:16:58.874Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T09:17:04.068Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T09:17:08.482Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T09:17:15.504Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T09:17:22.265Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T09:17:25.519Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T09:17:29.798Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T09:19:11.382Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T09:19:28.571Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T09:19:39.053Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T09:19:41.026Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T09:19:44.799Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T09:19:46.729Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T09:19:49.251Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T09:19:50.863Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T09:20:01.927Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T09:20:05.590Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T09:20:08.894Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T09:20:16.417Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T09:20:23.666Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T09:20:25.363Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T09:20:39.128Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T09:20:59.136Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T09:21:08.993Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T09:21:23.693Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T09:21:38.658Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T09:22:34.937Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T09:22:45.474Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T09:22:58.973Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T09:23:06.297Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T09:23:16.679Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T09:23:57.450Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T09:24:02.046Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T09:24:04.806Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T09:24:07.791Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T09:24:15.087Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T09:24:17.803Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/create - BODY : [object Object] - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/create","timestamp":"2025-07-03T09:24:32.909Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T09:25:49.440Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/create - BODY : [object Object] - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/create","timestamp":"2025-07-03T09:26:37.276Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T09:28:27.056Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T09:29:35.652Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T09:29:40.571Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T09:29:50.617Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T09:30:01.539Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T09:30:21.350Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/create - BODY : [object Object] - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/create","timestamp":"2025-07-03T09:30:31.914Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:01:46.162Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/create - BODY : undefined - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/create","timestamp":"2025-07-03T10:01:48.886Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/create - BODY : undefined - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/create","timestamp":"2025-07-03T10:02:30.718Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/create - BODY : undefined - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/create","timestamp":"2025-07-03T10:03:07.285Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/create - BODY : undefined - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/create","timestamp":"2025-07-03T10:04:03.198Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/create - BODY : undefined - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/create","timestamp":"2025-07-03T10:07:37.456Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:10:55.618Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:11:03.825Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:11:45.224Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/create - BODY : undefined - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/create","timestamp":"2025-07-03T10:11:49.122Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:13:27.567Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:15:13.920Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:15:19.597Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:15:22.987Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:15:25.172Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:15:27.729Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:15:47.850Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:15:49.741Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:15:52.474Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:15:57.100Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:16:05.114Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:16:42.678Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:17:29.342Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:17:31.738Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:18:38.731Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:18:56.103Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:18:58.210Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:19:00.717Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:19:05.261Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:19:09.674Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:19:14.823Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:19:16.807Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:19:24.520Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:19:28.103Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:19:30.729Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:19:33.659Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:19:40.110Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:19:43.001Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:19:46.566Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:19:48.576Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:20:32.884Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:20:35.091Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:20:40.365Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:20:42.543Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:20:44.502Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:20:48.084Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:20:50.684Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:20:56.903Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:21:00.588Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:21:07.045Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:21:11.328Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:21:14.836Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:21:17.763Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:21:37.152Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:22:05.155Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:22:15.382Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:22:25.229Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:22:47.765Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:22:50.077Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:35:06.611Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:35:09.237Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:35:44.814Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:35:48.249Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:35:51.915Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:35:53.818Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:35:55.771Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:36:19.956Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:36:27.518Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:36:30.194Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:36:48.960Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:36:54.912Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:36:57.657Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:37:05.273Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:37:07.269Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:37:12.379Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:37:15.073Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:37:19.561Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:37:23.399Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:37:25.739Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:37:29.045Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:38:12.870Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:38:15.447Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:38:20.571Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/create - BODY : undefined - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/create","timestamp":"2025-07-03T10:38:36.774Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:41:54.217Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/create - BODY : undefined - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/create","timestamp":"2025-07-03T10:42:02.057Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[31merror\u001b[39m","message":"IP Adresi : ::1 - PATH : /create - BODY : {\"name\":\"semavi@hotmail.com\",\"year\":\"1987\",\"description\":\"bu bir açıklama5\"} - PARAMS : {} - QUERY : {} - ERROR TİME : 1751539322076 - URL : /create - ERROR MESSAGE : res is not defined - ERROR CALLSTACK : {}","timestamp":"2025-07-03T10:42:02.076Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:48:12.021Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/create - BODY : undefined - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/create","timestamp":"2025-07-03T10:48:13.280Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[31merror\u001b[39m","message":"IP Adresi : ::1 - PATH : /create - BODY : {\"name\":\"semavi@hotmail.com\",\"year\":\"1987\",\"description\":\"bu bir açıklama5\"} - PARAMS : {} - QUERY : {} - ERROR TİME : 1751539693305 - URL : /create - ERROR MESSAGE : res is not defined - ERROR CALLSTACK : {}","timestamp":"2025-07-03T10:48:13.305Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:48:52.322Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:49:03.427Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:49:05.163Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/create - BODY : undefined - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/create","timestamp":"2025-07-03T10:49:07.324Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[31merror\u001b[39m","message":"IP Adresi : ::1 - PATH : /create - BODY : {\"name\":\"semavi@hotmail.com\",\"year\":\"1987\",\"description\":\"bu bir açıklama5\"} - PARAMS : {} - QUERY : {} - ERROR TİME : 1751539747342 - URL : /create - ERROR MESSAGE : res is not defined - ERROR CALLSTACK : {}","timestamp":"2025-07-03T10:49:07.342Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:50:08.846Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:50:15.287Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/create - BODY : undefined - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/create","timestamp":"2025-07-03T10:50:16.625Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[31merror\u001b[39m","message":"IP Adresi : ::1 - PATH : /create - BODY : {\"name\":\"semavi@hotmail.com\",\"year\":\"1987\",\"description\":\"bu bir açıklama5\"} - PARAMS : {} - QUERY : {} - ERROR TİME : 1751539816643 - URL : /create - ERROR MESSAGE : res is not defined - ERROR CALLSTACK : {}","timestamp":"2025-07-03T10:50:16.643Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:51:53.927Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/create - BODY : undefined - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/create","timestamp":"2025-07-03T10:52:04.334Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[31merror\u001b[39m","message":"IP Adresi : ::1 - PATH : /create - BODY : {\"name\":\"semavi@hotmail.com\",\"year\":\"1987\",\"description\":\"bu bir açıklama5\"} - PARAMS : {} - QUERY : {} - ERROR TİME : 1751539924354 - URL : /create - ERROR MESSAGE : res is not defined - ERROR CALLSTACK : {}","timestamp":"2025-07-03T10:52:04.354Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:52:32.291Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:52:39.384Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:52:41.729Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:52:58.044Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/create - BODY : undefined - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/create","timestamp":"2025-07-03T10:53:01.754Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[31merror\u001b[39m","message":"IP Adresi : ::1 - PATH : /create - BODY : {\"name\":\"semavi@hotmail.com\",\"year\":\"1987\",\"description\":\"bu bir açıklama5\"} - PARAMS : {} - QUERY : {} - ERROR TİME : 1751539981770 - URL : /create - ERROR MESSAGE : res is not defined - ERROR CALLSTACK : {}","timestamp":"2025-07-03T10:53:01.770Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/create - BODY : undefined - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/create","timestamp":"2025-07-03T10:53:10.420Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[31merror\u001b[39m","message":"IP Adresi : ::1 - PATH : /create - BODY : {\"name\":\"semavi@hotmail.com\",\"year\":\"1987\",\"description\":\"bu bir açıklama5\"} - PARAMS : {} - QUERY : {} - ERROR TİME : 1751539990421 - URL : /create - ERROR MESSAGE : res is not defined - ERROR CALLSTACK : {}","timestamp":"2025-07-03T10:53:10.421Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:53:40.344Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:53:57.808Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:54:00.641Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:54:02.537Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:54:10.465Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:54:12.467Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:54:33.868Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/create - BODY : undefined - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/create","timestamp":"2025-07-03T10:54:37.696Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[31merror\u001b[39m","message":"IP Adresi : ::1 - PATH : /create - BODY : {\"name\":\"semavi@hotmail.com\",\"year\":\"1987\",\"description\":\"bu bir açıklama5\"} - PARAMS : {} - QUERY : {} - ERROR TİME : 1751540077702 - URL : /create - ERROR MESSAGE : res is not defined - ERROR CALLSTACK : {}","timestamp":"2025-07-03T10:54:37.702Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:54:44.521Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:54:56.532Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:55:10.273Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:56:05.731Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/create - BODY : undefined - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/create","timestamp":"2025-07-03T10:56:18.092Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[31merror\u001b[39m","message":"IP Adresi : ::1 - PATH : /create - BODY : {\"name\":\"semavi@hotmail.com\",\"year\":\"1987\",\"description\":\"bu bir açıklama5\"} - PARAMS : {} - QUERY : {} - ERROR TİME : 1751540178099 - URL : /create - ERROR MESSAGE : error is not a constructor - ERROR CALLSTACK : {}","timestamp":"2025-07-03T10:56:18.099Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/create - BODY : undefined - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/create","timestamp":"2025-07-03T10:56:34.300Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:59:00.044Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:59:25.649Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:59:33.212Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:59:48.230Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T10:59:53.436Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:00:01.406Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:00:03.080Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:00:15.659Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:00:24.684Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:00:26.805Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:00:33.235Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:01:08.955Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:01:12.785Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/create - BODY : undefined - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/create","timestamp":"2025-07-03T11:01:24.768Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /upload/1751540484774_0.jsgjfi14pv9_image_image_istanbul-maltepenin-mahalleleri-harita.png - BODY : undefined - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /upload/1751540484774_0.jsgjfi14pv9_image_image_istanbul-maltepenin-mahalleleri-harita.png","timestamp":"2025-07-03T11:04:06.691Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /favicon.ico - BODY : undefined - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /favicon.ico","timestamp":"2025-07-03T11:04:07.003Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:13:41.299Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/create - BODY : undefined - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/create","timestamp":"2025-07-03T11:13:53.214Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::ffff:172.27.48.1 - PATH : /upload/1751541233222_0.r7b1h3n3hzr_image_image_istanbul-maltepenin-mahalleleri-harita.png - BODY : undefined - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /upload/1751541233222_0.r7b1h3n3hzr_image_image_istanbul-maltepenin-mahalleleri-harita.png","timestamp":"2025-07-03T11:14:09.810Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:15:56.760Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:16:07.000Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/create - BODY : undefined - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/create","timestamp":"2025-07-03T11:16:34.599Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:18:38.940Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:18:53.811Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:19:07.406Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:19:10.081Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:19:39.876Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:20:54.847Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:20:58.578Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:21:24.505Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:21:59.794Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:22:03.432Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:22:09.902Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:22:12.045Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::ffff:172.27.48.1 - PATH : /upload/1751541394606_0.38v4aj4y9dh_image_image_istanbul-maltepenin-mahalleleri-harita.png - BODY : undefined - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /upload/1751541394606_0.38v4aj4y9dh_image_image_istanbul-maltepenin-mahalleleri-harita.png","timestamp":"2025-07-03T11:22:27.154Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::ffff:172.27.48.1 - PATH : /upload/1751541394606_0.38v4aj4y9dh_image_image_istanbul-maltepenin-mahalleleri-harita.png - BODY : undefined - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /upload/1751541394606_0.38v4aj4y9dh_image_image_istanbul-maltepenin-mahalleleri-harita.png","timestamp":"2025-07-03T11:22:44.147Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:24:26.265Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::ffff:172.27.48.1 - PATH : /upload/1751541394606_0.38v4aj4y9dh_image_image_istanbul-maltepenin-mahalleleri-harita.png - BODY : undefined - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /upload/1751541394606_0.38v4aj4y9dh_image_image_istanbul-maltepenin-mahalleleri-harita.png","timestamp":"2025-07-03T11:24:27.832Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:25:01.082Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::ffff:172.27.48.1 - PATH : /upload/1751541394606_0.38v4aj4y9dh_image_image_istanbul-maltepenin-mahalleleri-harita.png - BODY : undefined - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /upload/1751541394606_0.38v4aj4y9dh_image_image_istanbul-maltepenin-mahalleleri-harita.png","timestamp":"2025-07-03T11:25:04.847Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::ffff:172.27.48.1 - PATH : /upload/1751541394606_0.38v4aj4y9dh_image_image_istanbul-maltepenin-mahalleleri-harita.png - BODY : undefined - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /upload/1751541394606_0.38v4aj4y9dh_image_image_istanbul-maltepenin-mahalleleri-harita.png","timestamp":"2025-07-03T11:25:17.832Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::ffff:172.27.48.1 - PATH : /upload/1751541394606_0.38v4aj4y9dh_image_image_istanbul-maltepenin-mahalleleri-harita.png - BODY : undefined - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /upload/1751541394606_0.38v4aj4y9dh_image_image_istanbul-maltepenin-mahalleleri-harita.png","timestamp":"2025-07-03T11:25:27.678Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::ffff:172.27.48.1 - PATH : /upload/1751541233222_0.r7b1h3n3hzr_image_image_istanbul-maltepenin-mahalleleri-harita.png - BODY : undefined - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /upload/1751541233222_0.r7b1h3n3hzr_image_image_istanbul-maltepenin-mahalleleri-harita.png","timestamp":"2025-07-03T11:26:18.705Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:27:49.142Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::ffff:172.27.48.1 - PATH : /upload/1751541233222_0.r7b1h3n3hzr_image_image_istanbul-maltepenin-mahalleleri-harita.png - BODY : undefined - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /upload/1751541233222_0.r7b1h3n3hzr_image_image_istanbul-maltepenin-mahalleleri-harita.png","timestamp":"2025-07-03T11:27:51.651Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::ffff:172.27.48.1 - PATH : /upload/1751541233222_0.r7b1h3n3hzr_image_image_istanbul-maltepenin-mahalleleri-harita.png - BODY : undefined - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /upload/1751541233222_0.r7b1h3n3hzr_image_image_istanbul-maltepenin-mahalleleri-harita.png","timestamp":"2025-07-03T11:27:52.780Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::ffff:172.27.48.1 - PATH : /upload/1751541233222_0.r7b1h3n3hzr_image_image_istanbul-maltepenin-mahalleleri-harita.png - BODY : undefined - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /upload/1751541233222_0.r7b1h3n3hzr_image_image_istanbul-maltepenin-mahalleleri-harita.png","timestamp":"2025-07-03T11:27:53.325Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::ffff:172.27.48.1 - PATH : /upload/1751541233222_0.r7b1h3n3hzr_image_image_istanbul-maltepenin-mahalleleri-harita.png - BODY : undefined - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /upload/1751541233222_0.r7b1h3n3hzr_image_image_istanbul-maltepenin-mahalleleri-harita.png","timestamp":"2025-07-03T11:27:53.793Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::ffff:172.27.48.1 - PATH : /upload/1751541233222_0.r7b1h3n3hzr_image_image_istanbul-maltepenin-mahalleleri-harita.png - BODY : undefined - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /upload/1751541233222_0.r7b1h3n3hzr_image_image_istanbul-maltepenin-mahalleleri-harita.png","timestamp":"2025-07-03T11:27:54.080Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::ffff:172.27.48.1 - PATH : /upload/1751541233222_0.r7b1h3n3hzr_image_image_istanbul-maltepenin-mahalleleri-harita.png - BODY : undefined - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /upload/1751541233222_0.r7b1h3n3hzr_image_image_istanbul-maltepenin-mahalleleri-harita.png","timestamp":"2025-07-03T11:27:54.264Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::ffff:172.27.48.1 - PATH : /upload/1751541233222_0.r7b1h3n3hzr_image_image_istanbul-maltepenin-mahalleleri-harita.png - BODY : undefined - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /upload/1751541233222_0.r7b1h3n3hzr_image_image_istanbul-maltepenin-mahalleleri-harita.png","timestamp":"2025-07-03T11:27:54.448Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::ffff:172.27.48.1 - PATH : /upload/1751541233222_0.r7b1h3n3hzr_image_image_istanbul-maltepenin-mahalleleri-harita.png - BODY : undefined - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /upload/1751541233222_0.r7b1h3n3hzr_image_image_istanbul-maltepenin-mahalleleri-harita.png","timestamp":"2025-07-03T11:27:54.639Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::ffff:172.27.48.1 - PATH : /upload/1751541394606_0.38v4aj4y9dh_image_image_istanbul-maltepenin-mahalleleri-harita.png - BODY : undefined - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /upload/1751541394606_0.38v4aj4y9dh_image_image_istanbul-maltepenin-mahalleleri-harita.png","timestamp":"2025-07-03T11:27:59.738Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::ffff:172.27.48.1 - PATH : /upload/1751541394606_0.38v4aj4y9dh_image_image_istanbul-maltepenin-mahalleleri-harita.png - BODY : undefined - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /upload/1751541394606_0.38v4aj4y9dh_image_image_istanbul-maltepenin-mahalleleri-harita.png","timestamp":"2025-07-03T11:28:02.253Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:31:28.664Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::ffff:172.27.48.1 - PATH : /upload/1751541233222_0.r7b1h3n3hzr_image_image_istanbul-maltepenin-mahalleleri-harita.png - BODY : undefined - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /upload/1751541233222_0.r7b1h3n3hzr_image_image_istanbul-maltepenin-mahalleleri-harita.png","timestamp":"2025-07-03T11:31:38.195Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::ffff:172.27.48.1 - PATH : /upload/1751541233222_0.r7b1h3n3hzr_image_image_istanbul-maltepenin-mahalleleri-harita.png - BODY : undefined - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /upload/1751541233222_0.r7b1h3n3hzr_image_image_istanbul-maltepenin-mahalleleri-harita.png","timestamp":"2025-07-03T11:31:39.053Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::ffff:172.27.48.1 - PATH : /upload/1751541233222_0.r7b1h3n3hzr_image_image_istanbul-maltepenin-mahalleleri-harita.png - BODY : undefined - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /upload/1751541233222_0.r7b1h3n3hzr_image_image_istanbul-maltepenin-mahalleleri-harita.png","timestamp":"2025-07-03T11:31:39.636Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::ffff:172.27.48.1 - PATH : /upload/1751541394606_0.38v4aj4y9dh_image_image_istanbul-maltepenin-mahalleleri-harita.png - BODY : undefined - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /upload/1751541394606_0.38v4aj4y9dh_image_image_istanbul-maltepenin-mahalleleri-harita.png","timestamp":"2025-07-03T11:31:49.137Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::ffff:172.27.48.1 - PATH : /upload/1751541394606_0.38v4aj4y9dh_image_image_istanbul-maltepenin-mahalleleri-harita.png - BODY : undefined - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /upload/1751541394606_0.38v4aj4y9dh_image_image_istanbul-maltepenin-mahalleleri-harita.png","timestamp":"2025-07-03T11:31:50.250Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/create - BODY : undefined - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/create","timestamp":"2025-07-03T11:31:59.517Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::ffff:172.27.48.1 - PATH : /upload/1751542319526_0.2n3j7lpxnc1_image_image_istanbul-maltepenin-mahalleleri-harita.png - BODY : undefined - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /upload/1751542319526_0.2n3j7lpxnc1_image_image_istanbul-maltepenin-mahalleleri-harita.png","timestamp":"2025-07-03T11:32:05.229Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/create - BODY : undefined - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/create","timestamp":"2025-07-03T11:34:15.837Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/create - BODY : undefined - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/create","timestamp":"2025-07-03T11:34:28.362Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::ffff:172.27.48.1 - PATH : /favicon.ico - BODY : undefined - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /favicon.ico","timestamp":"2025-07-03T11:35:03.752Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/create - BODY : undefined - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/create","timestamp":"2025-07-03T11:36:04.751Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:36:16.610Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/create - BODY : undefined - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/create","timestamp":"2025-07-03T11:36:20.673Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:38:10.762Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:38:57.971Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/create - BODY : undefined - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/create","timestamp":"2025-07-03T11:39:02.090Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:40:31.221Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:41:08.846Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:41:10.666Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:41:13.719Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:41:18.036Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:41:19.983Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:41:23.351Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:41:31.983Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:42:29.812Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:42:32.528Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:42:42.627Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:43:00.704Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:43:05.455Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:43:27.937Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:44:38.068Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:45:44.773Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:45:46.806Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:45:54.171Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:46:12.851Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:46:27.415Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:46:39.407Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:46:54.218Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:47:17.079Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:47:42.050Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:48:44.549Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:48:48.888Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:48:54.524Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:49:17.217Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/create - BODY : undefined - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/create","timestamp":"2025-07-03T11:50:09.195Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:50:38.108Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:50:44.380Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/create - BODY : undefined - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/create","timestamp":"2025-07-03T11:50:46.742Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[31merror\u001b[39m","message":"IP Adresi : ::1 - PATH : /create - BODY : {\"name\":\"semavi@hotmail.com\",\"year\":\"1987\",\"description\":\"bu bir açıklama7\"} - PARAMS : {} - QUERY : {} - ERROR TİME : 1751543446753 - URL : /create - ERROR MESSAGE : Desteklenmeyen Dosya Biçimi - ERROR CALLSTACK : {\"storageErrors\":[]}- CUSTOM-INFO : undefined","timestamp":"2025-07-03T11:50:46.753Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[31merror\u001b[39m","message":"IP Adresi : ::1 - PATH : /create - BODY : {\"name\":\"semavi@hotmail.com\",\"year\":\"1987\",\"description\":\"bu bir açıklama7\"} - PARAMS : {} - QUERY : {} - ERROR TİME : 1751543446757 - URL : /create - ERROR MESSAGE : error is not a constructor - ERROR CALLSTACK : {}- CUSTOM-INFO : undefined","timestamp":"2025-07-03T11:50:46.757Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/create - BODY : undefined - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/create","timestamp":"2025-07-03T11:51:33.699Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[31merror\u001b[39m","message":"IP Adresi : ::1 - PATH : /create - BODY : {\"name\":\"semavi@hotmail.com\",\"year\":\"1987\",\"description\":\"bu bir açıklama7\"} - PARAMS : {} - QUERY : {} - ERROR TİME : 1751543493718 - URL : /create - ERROR MESSAGE : error is not a constructor - ERROR CALLSTACK : {}- CUSTOM-INFO : undefined","timestamp":"2025-07-03T11:51:33.718Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:56:58.735Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:57:00.603Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:57:05.106Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:57:08.865Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:57:48.679Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:57:58.947Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:58:15.989Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T11:59:20.965Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T12:00:40.098Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/create - BODY : undefined - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/create","timestamp":"2025-07-03T12:01:09.122Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T12:03:36.952Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T12:04:14.454Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T12:04:41.088Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T12:04:51.279Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T12:05:12.444Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T12:05:24.993Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T12:05:27.880Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T12:05:30.035Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T12:07:15.200Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T12:07:43.696Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T12:07:45.731Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T12:07:52.315Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T12:07:58.294Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T12:08:02.234Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T12:08:54.732Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T12:09:03.463Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T12:09:07.240Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T12:09:18.015Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T12:09:47.378Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T12:09:57.950Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T12:10:06.150Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/create - BODY : [object Object] - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/create","timestamp":"2025-07-03T12:10:54.914Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T12:12:47.022Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T12:13:36.556Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T12:13:41.241Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T12:15:58.790Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T12:16:04.358Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T12:16:08.907Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T12:17:41.077Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T12:17:56.509Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T12:18:01.139Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T12:18:19.478Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T12:18:21.471Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T12:18:27.369Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T12:19:20.416Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T12:19:27.462Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T12:19:33.454Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T12:19:37.937Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T12:20:22.196Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:11:41.647Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:11:46.377Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/create - BODY : [object Object] - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/create","timestamp":"2025-07-03T13:12:44.459Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/create - BODY : [object Object] - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/create","timestamp":"2025-07-03T13:12:49.404Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/uploadLogo - BODY : undefined - PARAMS : {} - QUERY : {\"id\":\"1\"} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/uploadLogo?id=1","timestamp":"2025-07-03T13:14:30.002Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/uploadLogo - BODY : undefined - PARAMS : {} - QUERY : {\"id\":\"1\"} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/uploadLogo?id=1","timestamp":"2025-07-03T13:15:20.487Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:17:14.584Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:17:27.521Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:17:42.125Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:18:03.787Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:18:09.545Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:18:13.511Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:18:18.777Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:18:22.175Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:18:32.582Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:18:35.009Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:18:44.628Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:18:46.757Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:18:52.444Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:18:56.505Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:18:59.398Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:19:02.380Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:19:06.465Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:19:08.490Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:20:31.100Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:20:53.201Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:20:55.333Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:21:02.898Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:21:45.884Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:21:48.553Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:22:11.685Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:23:03.472Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:23:08.324Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:23:11.630Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:23:43.128Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:23:47.647Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:23:51.023Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:23:55.511Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:23:58.379Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:24:03.693Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:24:09.861Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:24:12.495Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:24:17.262Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:24:19.457Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:24:23.669Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:24:25.917Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:24:39.800Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:24:44.885Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/uploadLogo - BODY : undefined - PARAMS : {} - QUERY : {\"id\":\"686681d15a761cdb13d2e29b\"} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/uploadLogo?id=686681d15a761cdb13d2e29b","timestamp":"2025-07-03T13:28:11.050Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:30:03.842Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:30:13.793Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/create - BODY : undefined - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/create","timestamp":"2025-07-03T13:30:54.595Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[31merror\u001b[39m","message":"IP Adresi : ::1 - PATH : /create - BODY : undefined - PARAMS : {} - QUERY : {} - ERROR TİME : 1751549454598 - URL : /create - ERROR MESSAGE : error is not a constructor - ERROR CALLSTACK : {}- CUSTOM-INFO : undefined","timestamp":"2025-07-03T13:30:54.598Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/create - BODY : [object Object] - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/create","timestamp":"2025-07-03T13:31:06.728Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/uploadLogo - BODY : undefined - PARAMS : {} - QUERY : {\"id\":\"686681d15a761cdb13d2e29b\"} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/uploadLogo?id=686681d15a761cdb13d2e29b","timestamp":"2025-07-03T13:31:32.807Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/uploadLogo - BODY : undefined - PARAMS : {} - QUERY : {\"id\":\"6866861a50c405271bfd61a9\"} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/uploadLogo?id=6866861a50c405271bfd61a9","timestamp":"2025-07-03T13:32:03.130Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:33:25.590Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:33:30.712Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:33:35.422Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:33:37.205Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:33:41.795Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/uploadLogo - BODY : undefined - PARAMS : {} - QUERY : {\"id\":\"6866861a50c405271bfd61a9\"} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/uploadLogo?id=6866861a50c405271bfd61a9","timestamp":"2025-07-03T13:34:09.121Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:35:36.650Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:35:47.283Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:36:49.965Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:37:27.953Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:38:10.727Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:38:36.304Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:38:39.942Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:38:56.157Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:39:03.304Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:39:06.848Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:42:01.148Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:42:11.740Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:43:56.741Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:43:59.803Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:45:07.412Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:46:16.490Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:46:22.607Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:46:53.073Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:47:19.426Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:47:46.148Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:48:31.996Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:49:38.867Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:49:41.351Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:49:44.073Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:50:01.816Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:50:15.482Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:50:21.760Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:50:28.244Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:51:52.555Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:51:58.801Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:52:03.838Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:52:20.792Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:52:47.690Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:52:56.759Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:54:01.398Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:54:13.368Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:54:15.172Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:54:17.832Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:54:27.831Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:54:46.002Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:54:48.710Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:55:14.795Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:55:46.974Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:55:54.226Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:56:00.971Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:57:38.842Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:57:40.863Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T13:58:46.814Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/create - BODY : [object Object] - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/create","timestamp":"2025-07-03T14:00:27.766Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:10:46.757Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/create - BODY : [object Object] - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/create","timestamp":"2025-07-03T14:11:18.928Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:12:53.224Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/create - BODY : [object Object] - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/create","timestamp":"2025-07-03T14:12:57.609Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:17:23.455Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/create - BODY : [object Object] - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/create","timestamp":"2025-07-03T14:17:25.503Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:17:37.918Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:19:51.450Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/create - BODY : [object Object] - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/create","timestamp":"2025-07-03T14:19:55.223Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:22:09.533Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:22:41.662Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/create - BODY : [object Object] - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/create","timestamp":"2025-07-03T14:22:44.215Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:23:33.452Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:23:35.318Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/create - BODY : [object Object] - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/create","timestamp":"2025-07-03T14:23:38.721Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:23:47.055Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/create - BODY : [object Object] - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/create","timestamp":"2025-07-03T14:23:50.641Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/create - BODY : [object Object] - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/create","timestamp":"2025-07-03T14:29:20.364Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[31merror\u001b[39m","message":"IP Adresi : ::1 - PATH : /create - BODY : {\"name\":\"\",\"year\":\"1987\",\"description\":\"bu bir açıklama4\"} - PARAMS : {} - QUERY : {} - ERROR TİME : 1751552960369 - URL : /create - ERROR MESSAGE : error is not a constructor - ERROR CALLSTACK : {}- CUSTOM-INFO : undefined","timestamp":"2025-07-03T14:29:20.369Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/create - BODY : [object Object] - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/create","timestamp":"2025-07-03T14:29:35.050Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/create - BODY : [object Object] - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/create","timestamp":"2025-07-03T14:29:44.555Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[31merror\u001b[39m","message":"IP Adresi : ::1 - PATH : /create - BODY : {\"name\":\"deneme\",\"year\":\"\",\"description\":\"bu bir açıklama4\"} - PARAMS : {} - QUERY : {} - ERROR TİME : 1751552984557 - URL : /create - ERROR MESSAGE : error is not a constructor - ERROR CALLSTACK : {}- CUSTOM-INFO : undefined","timestamp":"2025-07-03T14:29:44.558Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/create - BODY : [object Object] - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/create","timestamp":"2025-07-03T14:30:25.552Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[31merror\u001b[39m","message":"IP Adresi : ::1 - PATH : /create - BODY : {\"name\":\"deneme\",\"year\":\"bune\",\"description\":\"bu bir açıklama4\"} - PARAMS : {} - QUERY : {} - ERROR TİME : 1751553025563 - URL : /create - ERROR MESSAGE : error is not a constructor - ERROR CALLSTACK : {}- CUSTOM-INFO : undefined","timestamp":"2025-07-03T14:30:25.563Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:30:39.546Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/create - BODY : [object Object] - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/create","timestamp":"2025-07-03T14:30:45.746Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:30:59.586Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/create - BODY : [object Object] - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/create","timestamp":"2025-07-03T14:31:06.595Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[31merror\u001b[39m","message":"IP Adresi : ::1 - PATH : /create - BODY : {\"name\":\"deneme\",\"year\":\"bune\",\"description\":\"bu bir açıklama4\"} - PARAMS : {} - QUERY : {} - ERROR TİME : 1751553066624 - URL : /create - ERROR MESSAGE : error is not a constructor - ERROR CALLSTACK : {}- CUSTOM-INFO : undefined","timestamp":"2025-07-03T14:31:06.624Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:33:27.659Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:33:49.165Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:33:52.518Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:33:57.967Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:34:35.306Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:34:38.402Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:34:51.498Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:38:48.646Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:39:10.068Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:39:12.662Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:40:32.094Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:40:34.650Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:41:05.598Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:42:31.487Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:42:33.050Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:42:46.648Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:42:49.433Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:42:55.718Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:44:03.403Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:44:07.737Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:44:32.819Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:44:34.705Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:44:37.194Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:44:46.287Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:46:01.781Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:46:09.879Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:46:15.208Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:46:33.748Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:46:35.438Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:46:45.664Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:47:09.206Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:47:11.455Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:47:14.252Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:47:19.922Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:47:21.773Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:47:29.866Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:48:03.483Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:49:33.185Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:49:37.624Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/all - BODY : [object Object] - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/all","timestamp":"2025-07-03T14:50:12.412Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/all - BODY : [object Object] - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/all","timestamp":"2025-07-03T14:50:22.805Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[31merror\u001b[39m","message":"IP Adresi : ::1 - PATH : /all - BODY : {\"name\":\"deneme\",\"year\":\"bune\",\"description\":\"bu bir açıklama4\"} - PARAMS : {} - QUERY : {} - ERROR TİME : 1751554222822 - URL : /all - ERROR MESSAGE : _response is not defined - ERROR CALLSTACK : {}- CUSTOM-INFO : undefined","timestamp":"2025-07-03T14:50:22.822Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:51:25.490Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:51:28.801Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/all - BODY : [object Object] - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/all","timestamp":"2025-07-03T14:51:33.309Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:52:37.455Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:52:58.834Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:53:01.393Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:53:03.566Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:53:08.026Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:53:20.737Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:53:24.383Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:53:28.547Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:53:32.045Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:53:38.321Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:53:41.842Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:53:43.813Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:53:47.950Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:53:55.355Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:54:01.577Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:54:07.137Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:54:19.063Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:54:30.685Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:54:46.243Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:54:56.779Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:55:55.785Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:55:59.605Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:56:03.484Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:56:06.839Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:56:09.098Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:56:29.052Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:56:38.940Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:56:51.480Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:56:56.994Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:57:06.242Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:57:09.096Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:57:11.793Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T14:57:14.883Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T15:20:17.882Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T15:20:35.020Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T15:21:54.304Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T15:22:03.070Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/delete/68668fe9407f3e6dc85bb15d - BODY : [object Object] - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/delete/68668fe9407f3e6dc85bb15d","timestamp":"2025-07-03T15:22:36.739Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/delete/68668fe9407f3e6dc85bb15d - BODY : [object Object] - PARAMS : {} - QUERY : {} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/delete/68668fe9407f3e6dc85bb15d","timestamp":"2025-07-03T15:22:41.775Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[31merror\u001b[39m","message":"IP Adresi : ::1 - PATH : /delete/68668fe9407f3e6dc85bb15d - BODY : {\"name\":\"deneme\",\"year\":\"bune\",\"description\":\"bu bir açıklama4\"} - PARAMS : {\"companyId\":\"68668fe9407f3e6dc85bb15d\"} - QUERY : {} - ERROR TİME : 1751556161779 - URL : /delete/68668fe9407f3e6dc85bb15d - ERROR MESSAGE : error is not a constructor - ERROR CALLSTACK : {}- CUSTOM-INFO : undefined","timestamp":"2025-07-03T15:22:41.779Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T15:23:32.081Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T15:24:21.000Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T15:24:26.147Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/delete - BODY : [object Object] - PARAMS : {} - QUERY : {\"id\":\"68668fe9407f3e6dc85bb15d\"} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/delete?id=68668fe9407f3e6dc85bb15d","timestamp":"2025-07-03T15:24:36.036Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[31merror\u001b[39m","message":"IP Adresi : ::1 - PATH : /delete - BODY : {\"name\":\"deneme\",\"year\":\"bune\",\"description\":\"bu bir açıklama4\"} - PARAMS : {} - QUERY : {\"id\":\"68668fe9407f3e6dc85bb15d\"} - ERROR TİME : 1751556276040 - URL : /delete?id=68668fe9407f3e6dc85bb15d - ERROR MESSAGE : error is not a constructor - ERROR CALLSTACK : {}- CUSTOM-INFO : undefined","timestamp":"2025-07-03T15:24:36.040Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T15:25:57.810Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/delete - BODY : [object Object] - PARAMS : {} - QUERY : {\"id\":\"68668fe9407f3e6dc85bb15d\"} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/delete?id=68668fe9407f3e6dc85bb15d","timestamp":"2025-07-03T15:26:08.969Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/delete - BODY : [object Object] - PARAMS : {} - QUERY : {\"id\":\"68664c50dcd3244048211314\"} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/delete?id=68664c50dcd3244048211314","timestamp":"2025-07-03T15:26:53.703Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"Connected to MongoDB","timestamp":"2025-07-03T15:28:58.966Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[32minfo\u001b[39m","message":"IP Adresi : ::1 - PATH : /api/v1/company/delete - BODY : [object Object] - PARAMS : {} - QUERY : {\"id\":\"68664a07471f0fd63881b544\"} - MIDDLEWARE ACCESS TIME : function now() { [native code] } - URL : /api/v1/company/delete?id=68664a07471f0fd63881b544","timestamp":"2025-07-03T15:29:15.519Z"}
+{"api":"NODE SERVER","label":"Uygulama V1","level":"\u001b[31merror\u001b[39m","message":"IP Adresi : ::1 - PATH : /delete - BODY : {\"name\":\"deneme\",\"year\":\"bune\",\"description\":\"bu bir açıklama4\"} - PARAMS : {} - QUERY : {\"id\":\"68664a07471f0fd63881b544\"} - ERROR TİME : 1751556555548 - URL : /delete?id=68664a07471f0fd63881b544 - ERROR MESSAGE : error is not a constructor - ERROR CALLSTACK : {}- CUSTOM-INFO : undefined","timestamp":"2025-07-03T15:29:15.548Z"}
