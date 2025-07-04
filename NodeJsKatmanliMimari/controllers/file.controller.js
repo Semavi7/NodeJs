@@ -3,7 +3,7 @@ const baseResponse = require("../dto/baseresponse.dto")
 const { StatusCodes } = require("http-status-codes")
 const companyService = require("../services/index")
 const { reset } = require("ansi-colors")
-const upload = require("../middleware/singlefileupload.middleware")
+const upload = require("../middleware/singleImageupload.middleware")
 const multer = require("multer")
 exports.uploadFile = async (req, res) => {
     const _response = { ...baseResponse }

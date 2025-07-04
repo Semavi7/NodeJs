@@ -11,7 +11,7 @@ const personSchema = new Schema({
         type: Schema.Types.String,
         required: true
     },
-    bithDate: {
+    birthDate: {
         type: Schema.Types.Number,
         required: true
     },
@@ -39,6 +39,14 @@ const personSchema = new Schema({
         required: true,
         min: 8
     },
+    avatar: {
+        type: Schema.Types.String,
+        required: false,
+    },
+    cvFile: {
+        type: Schema.Types.String,
+        required: false,
+    },
     country: {
         type: Schema.Types.String,
         required: true
@@ -47,14 +55,14 @@ const personSchema = new Schema({
         type: Schema.Types.String,
         required: true
     },
-    company: {
+    company: [{
         type: Schema.Types.ObjectId,
         ref: "Company"
-    },
-    title: {
+    }],
+    title: [{
         type: Schema.Types.ObjectId,
         ref: "Title"
-    }
+    }]
 },{
     minimize: true,
     timestamps: true,

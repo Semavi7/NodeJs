@@ -7,10 +7,10 @@ const titleSchema = new Schema({
         type: Schema.Types.String,
         required: true
     },
-    persons: {
+    persons: [{
         type: Schema.Types.ObjectId,
         ref: "Person"
-    }
+    }]
 },{
     minimize: true,
     timestamps: true,
