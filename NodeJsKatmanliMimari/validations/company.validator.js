@@ -20,7 +20,10 @@ const CompanyValidator = {
     },
     validateFindById() {
         return [param('id').isMongoId()]
-    }
+    },
+    validateGetPersons() {
+        return [param('id').isMongoId()]
+    },
 }
 
 module.exports = CompanyValidator

@@ -35,8 +35,6 @@ exports.getAllPersonsPagination = async(req, res) => {
     }
 }
 
-exports.getPersonById = (req, res) => {}
-
 exports.createPerson = async (req, res) => {
      const _response = { ...baseResponse }
     try {
@@ -68,10 +66,6 @@ exports.createPerson = async (req, res) => {
     }
 }
 
-exports.updatePerson = (req, res) => {}
-
-exports.deletePersonById = (req, res) => {}
-
 exports.uploadAvatar = async(req, res) => {
     try {
         const isInvalid = utils.helpers.handeValidation(req)
@@ -95,6 +89,29 @@ exports.uploadAvatar = async(req, res) => {
     }
 }
 
+exports.updateAvatar = async(req, res) => {
+    try {
+        const isInvalid = utils.helpers.handeValidation(req)
+        if (isInvalid) {
+            res.status(StatusCodes.BAD_REQUEST).json({...baseResponse,
+                ...isInvalid
+            })
+            return
+        }
+        const json = await personService.person.updateAvatar(req)
+        res.status(StatusCodes.OK).json(json)
+    } catch (error) {
+        utils.helpers.logToError(error, req)
+        res.status(StatusCodes.INTERNAL_SERVER_ERROR).json({...baseResponse,
+            success: false,
+            error: true,
+            timestamp: Date.now(),
+            message: error.message,
+            code: StatusCodes.INTERNAL_SERVER_ERROR,
+        })
+    }
+}
+
 exports.uploadCv = async(req, res) => {
     try {
         const isInvalid = utils.helpers.handeValidation(req)
@@ -105,6 +122,29 @@ exports.uploadCv = async(req, res) => {
             return
         }
         const json = await personService.person.uploadCv(req)
+        res.status(StatusCodes.OK).json(json)
+    } catch (error) {
+        utils.helpers.logToError(error, req)
+        res.status(StatusCodes.INTERNAL_SERVER_ERROR).json({...baseResponse,
+            success: false,
+            error: true,
+            timestamp: Date.now(),
+            message: error.message,
+            code: StatusCodes.INTERNAL_SERVER_ERROR,
+        })
+    }
+}
+
+exports.updateCv = async(req, res) => {
+    try {
+        const isInvalid = utils.helpers.handeValidation(req)
+        if (isInvalid) {
+            res.status(StatusCodes.BAD_REQUEST).json({...baseResponse,
+                ...isInvalid
+            })
+            return
+        }
+        const json = await personService.person.updateCv(req)
         res.status(StatusCodes.OK).json(json)
     } catch (error) {
         utils.helpers.logToError(error, req)
@@ -221,6 +261,29 @@ exports.deletePersonById = async(req, res) => {
             return
         }
         const json = await personService.person.deletePersonById(req)
+        res.status(StatusCodes.OK).json({...baseResponse, data: json, success: true, timestamp: Date.now(), code: StatusCodes.OK })
+    } catch (error) {
+        utils.helpers.logToError(error, req)
+        res.status(StatusCodes.INTERNAL_SERVER_ERROR).json({...baseResponse,
+            success: false,
+            error: true,
+            timestamp: Date.now(),
+            message: error.message,
+            code: StatusCodes.INTERNAL_SERVER_ERROR,
+        })
+    }
+}
+
+exports.signIn = async(req, res) => {
+    try {
+        const isInvalid = utils.helpers.handeValidation(req)
+        if (isInvalid) {
+            res.status(StatusCodes.BAD_REQUEST).json({...baseResponse,
+                ...isInvalid
+            })
+            return
+        }
+        const json = await personService.person.signIn(req)
         res.status(StatusCodes.OK).json({...baseResponse, data: json, success: true, timestamp: Date.now(), code: StatusCodes.OK })
     } catch (error) {
         utils.helpers.logToError(error, req)

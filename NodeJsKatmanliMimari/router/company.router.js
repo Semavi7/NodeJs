@@ -9,6 +9,7 @@ router.post("/uploadLogo",[companyValidatior.companyValidatior.validateUploadLog
 router.post("/updateLogo",[companyValidatior.companyValidatior.validateUpdateLogo()],controller.companyController.updateLogo)
 router.put("/update/:id",[companyValidatior.companyValidatior.validateUpdateCompanyById()], controller.companyController.updateCompany)
 router.delete("/delete",[companyValidatior.companyValidatior.validateDeleteById()], controller.companyController.deleteCompanyById)
+router.get('/person/:id', [companyValidatior.companyValidatior.validateGetPersons()], controller.companyController.getPersonsById)
 module.exports = {
     company: router
 }

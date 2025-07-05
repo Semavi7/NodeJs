@@ -27,6 +27,9 @@ const PersonDataAccess = {
     },
     async findOnePopulate(where, populate) {
         return await Person.findOne(where).populate(populate)
+    },
+    async deleteMultiple(where) {
+        return await Person.deleteMany(where)
     }
 }
 

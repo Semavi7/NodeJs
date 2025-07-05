@@ -5,6 +5,7 @@ const titleDal = require("../dal/index")
 const personDto = require("../dto/person.dto")
 const utils = require("../utils/index")
 const fileService = require("./file.service")
+
 exports.createPerson = async (req) => {
     try {
         const {
@@ -21,6 +22,8 @@ exports.createPerson = async (req) => {
             company,
             title
         } = req.body
+        const findedTitle = await titleDal.title.findById(title)
+        const findedCompany = await companyDal.company.findById(company)
         const person = new Person({
             name,
             surname,
@@ -38,6 +41,10 @@ exports.createPerson = async (req) => {
             cvFile: ""
         })
         const json = await personDal.person.create(person)
+        findedTitle.persons.push(json._id)
+        findedCompany.persons.push(json._id)
+        await titleDal.title.create(findedTitle)
+        await companyDal.company.create(findedCompany)
         return {
             ...personDto,
             name: json.name,
@@ -103,7 +110,7 @@ exports.deletePersonById = async (req, res) => {
             const newPersonsForCompany = findedCompany.persons.filter((item) => item.toString() !== findedPerson._id.toString())
             const newPersonsForTitle = findedTitle.persons.filter((item) => item.toString() !== findedPerson._id.toString())
             await titleDal.title.updateById(findedTitle._id, { persons: newPersonsForTitle })
-            await companyDal.title.updateById(findedCompany._id, { persons: newPersonsForCompany })
+            await companyDal.company.updateById(findedCompany._id, { persons: newPersonsForCompany })
 
 
             return json
@@ -142,6 +149,41 @@ exports.uploadAvatar = async (req, res) => {
     }
 }
 
+exports.updateAvatar = async (req, res) => {
+    try {
+        const { id } = req.query
+        const str = await fileService.uploadImage(req, res)
+        const findedPerson = await personDal.person.findById(id)
+        const isDeleted = utils.helpers.deleteFromDisk(findedPerson.avatar ? findedPerson.avatar.cvFile('uploads/')[1] : '')
+        if (isDeleted) {
+            const json = await personDal.person.updateById(id, { avatar: str })
+            return {
+                ...personDto,
+                name: json.name,
+                id: json._id,
+                surname: json.surname,
+                birthDate: new Date(json.birthDate),
+                gender: json.gender,
+                salary: new Intl.NumberFormat('tr-TR', { style: 'currency', currency: 'YTL' }).format(json.salary),
+                tcNumber: json.tcNumber,
+                email: json.email,
+                country: json.country,
+                city: json.city,
+                avatar: str,
+                cvFile: json.cvFile,
+                title: json.title,
+                company: json.company,
+                createdAt: json.createdAt,
+                updatedAt: json.updatedAt
+            }
+        }
+        throw new Error('Dosya Silme İşlemi Hatası')
+
+    } catch (error) {
+        throw new Error(error)
+    }
+}
+
 exports.uploadCv = async (req, res) => {
     try {
         const { id } = req.query
@@ -166,6 +208,41 @@ exports.uploadCv = async (req, res) => {
             createdAt: json.createdAt,
             updatedAt: json.updatedAt
         }
+    } catch (error) {
+        throw new Error(error)
+    }
+}
+
+exports.updateCv = async (req, res) => {
+    try {
+        const { id } = req.query
+        const str = await fileService.uploadCv(req, res)
+        const findedPerson = await personDal.person.findById(id)
+        const isDeleted = utils.helpers.deleteFromDisk(findedPerson.cvFile ? findedPerson.cvFile.cvFile('uploads/')[1] : '')
+        if (isDeleted) {
+            const json = await personDal.person.updateById(id, { cvFile: str })
+            return {
+                ...personDto,
+                name: json.name,
+                id: json._id,
+                surname: json.surname,
+                birthDate: new Date(json.birthDate),
+                gender: json.gender,
+                salary: new Intl.NumberFormat('tr-TR', { style: 'currency', currency: 'YTL' }).format(json.salary),
+                tcNumber: json.tcNumber,
+                email: json.email,
+                country: json.country,
+                city: json.city,
+                avatar: json.avatar,
+                cvFile: str,
+                title: json.title,
+                company: json.company,
+                createdAt: json.createdAt,
+                updatedAt: json.updatedAt
+            }
+        }
+        throw new Error('Dosya Silme İşlemi Hatası')
+
     } catch (error) {
         throw new Error(error)
     }
@@ -320,6 +397,26 @@ exports.updatePerson = async (req) => {
             avatar: json.avatar,
             cvFile: json.cvFile
         }
+
+    } catch (error) {
+        throw new Error(error)
+    }
+}
+
+exports.signIn = async (req) => {
+    try {
+        const {
+            email,
+            password,
+        } = req.body
+
+        const _password = utils.helpers.hashToPassword(password)
+        const json = await personDal.person.findOne({ email, password: _password })
+        if (json) {
+            const token = utils.helpers.createToken(json._id, json.name + "" + json.surname, json.email)
+            return { fullName: json.name + "" + json.surname, id: json._id, email: json.email, token }
+        }
+        return null
 
     } catch (error) {
         throw new Error(error)

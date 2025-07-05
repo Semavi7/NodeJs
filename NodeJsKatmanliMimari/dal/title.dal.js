@@ -14,6 +14,9 @@ const TitleDataAccess = {
     },
     async findById(id){
         return await Title.findById({ _id: id })
+    },
+    async findOnePopulate(where, populate) {
+        return await Title.findOne(where).populate(populate)
     }
 }
 

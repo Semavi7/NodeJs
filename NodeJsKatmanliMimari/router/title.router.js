@@ -7,6 +7,7 @@ router.get("/getById/:id",[titleValidatior.titleValidatior.validateFindById()],c
 router.post("/create",[titleValidatior.titleValidatior.validateCreateTitle()],controller.titleController.createTitle)
 router.put("/update/:id",[titleValidatior.titleValidatior.validateUpdateTitle()], controller.titleController.updateTitle)
 router.delete("/delete/:id",[titleValidatior.titleValidatior.validateDeleteById()], controller.titleController.deleteTitleById)
+router.get('/person/:id', [titleValidatior.titleValidatior.validateGetPersonsById()], controller.titleController.getPersonsById)
 module.exports = {
     titles: router
 }

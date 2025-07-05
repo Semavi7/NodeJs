@@ -14,6 +14,9 @@ const CompanyDataAccess = {
     },
     async findById(id){
         return await Company.findById({ _id: id })
+    },
+    async findOnePopulate(where, populate) {
+        return await Company.findOne(where).populate(populate)
     }
 }
 

@@ -11,6 +11,9 @@ const TitleValidator = {
     },
     validateDeleteById() {
         return [param('id').isMongoId()]
+    },
+    validateGetPersonsById() {
+        return [param('id').isMongoId()]
     }
 }
 
